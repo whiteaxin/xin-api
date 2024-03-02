@@ -1,0 +1,28 @@
+spring:
+  # DataSource Config
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://49.233.186.145:3306/xinapi?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: zhanghongxin
+    password: z2970449087
+
+dubbo:
+  application:
+    name: dubbo-api-platform-backend-provider
+  protocol:
+    name: dubbo
+    port: -1
+  registry:
+    id: nacos-registry
+    address: nacos://49.233.186.145:8848
+  config-center:
+    timeout: 40000
+
+xin-api:
+  gateway:
+    host: http://49.233.186.145:8090
+  minio:
+    endpointUrl: http://49.233.186.145:9000
+    accessKey: YS5ScOWa9i878OXXucdT
+    secretKey: dqoTkxd8cta0qbsbi3kHwLk5KpbXbBzdiLEgmN1u
+    bucketName: xinapi-bucket

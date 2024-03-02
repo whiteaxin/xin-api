@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="07d4ca1b-4773-4d1b-a7ba-4151664e9b10" name="更改" comment="项目初始化">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhx/project/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhx/project/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhx/project/controller/UserInterfaceInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhx/project/controller/UserInterfaceInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhx/project/model/vo/user/req/UserLoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhx/project/model/vo/user/req/UserLoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhx/project/model/vo/user/req/UserQueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhx/project/model/vo/user/req/UserQueryRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhx/project/model/vo/user/resp/LoginResp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhx/project/model/vo/user/resp/LoginResp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zhx/project/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zhx/project/service/impl/UserServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../software/apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\software\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2XCV4DjNOQwsdOpgUyyH5XDZ1J7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace2/xinapi-backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.26197457&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.21721855&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;21c09fefafb7ca90862350c6eee5ddd6&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;RunConfigurationTargetLRU&quot;: [
+      &quot;fe9a87c7-5bb2-4654-8289-adbb8b1ac6a8/schema/\&quot;father\&quot;&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace2\xinapi-backend\src\main\java\com\yupi\project\model\dto\interfaceInfo" />
+      <recent name="D:\workspace2\xinapi-backend\src\main\java\com\yupi\project\service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace2\" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.yupi.project.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zhx.project.config" />
+      <recent name="com.zhx.project.interceptor" />
+      <recent name="com.zhx.project.utils" />
+      <recent name="com.zhx.project.constant" />
+      <recent name="com.zhx.project.service.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MyApplication">
+    <configuration name="ddl.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/sql/ddl.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="fe9a87c7-5bb2-4654-8289-adbb8b1ac6a8" namespace="schema/&quot;father&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="interface.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/sql/interface.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="fe9a87c7-5bb2-4654-8289-adbb8b1ac6a8" namespace="schema/&quot;father&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ApiPlatformGatewayApplicationTests.testRpc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xinapi-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xin.project.xinapigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xin.project.xinapigateway" />
+      <option name="MAIN_CLASS_NAME" value="com.xin.project.xinapigateway.ApiPlatformGatewayApplicationTests" />
+      <option name="METHOD_NAME" value="testRpc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xinapi-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhx.project.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yupi.project.service" />
+      <option name="MAIN_CLASS_NAME" value="com.zhx.project.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="xinapi-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhx.project.MyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XinapiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xinapi-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xin.project.xinapigateway.XinapiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XinapiInterfaceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xinapi-interface" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xin.xinapiinterface.XinapiInterfaceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest.test01" />
+        <item itemvalue="JUnit.ApiPlatformGatewayApplicationTests.testRpc" />
+        <item itemvalue="数据库脚本.interface.sql" />
+        <item itemvalue="数据库脚本.ddl.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="07d4ca1b-4773-4d1b-a7ba-4151664e9b10" name="更改" comment="" />
+      <created>1698132857234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698132857234</updated>
+      <workItem from="1698132861074" duration="11680000" />
+      <workItem from="1698223731340" duration="3217000" />
+      <workItem from="1698287662812" duration="3795000" />
+      <workItem from="1698376445173" duration="21000" />
+      <workItem from="1698376483547" duration="1072000" />
+      <workItem from="1698394513932" duration="6702000" />
+      <workItem from="1698565278248" duration="6231000" />
+      <workItem from="1698633605393" duration="792000" />
+      <workItem from="1698894641205" duration="5053000" />
+      <workItem from="1698997468231" duration="502000" />
+      <workItem from="1699150354669" duration="257000" />
+      <workItem from="1699151367756" duration="776000" />
+      <workItem from="1699165462560" duration="862000" />
+      <workItem from="1699238647194" duration="354000" />
+      <workItem from="1699255388443" duration="3436000" />
+      <workItem from="1699277176417" duration="2662000" />
+      <workItem from="1699410919619" duration="3253000" />
+      <workItem from="1699444967215" duration="679000" />
+      <workItem from="1699446572705" duration="3226000" />
+      <workItem from="1699505756475" duration="129000" />
+      <workItem from="1699624764365" duration="4318000" />
+      <workItem from="1699858751087" duration="23000" />
+      <workItem from="1700470048722" duration="436000" />
+      <workItem from="1700560869166" duration="26000" />
+      <workItem from="1700564484280" duration="1917000" />
+      <workItem from="1700567104591" duration="579000" />
+      <workItem from="1700569031335" duration="2181000" />
+      <workItem from="1700571881737" duration="255000" />
+      <workItem from="1700723827395" duration="92000" />
+      <workItem from="1706011693864" duration="4638000" />
+      <workItem from="1706103151412" duration="4071000" />
+      <workItem from="1706145923398" duration="25180000" />
+      <workItem from="1706327615769" duration="814000" />
+      <workItem from="1706332547810" duration="3456000" />
+      <workItem from="1706340157307" duration="5599000" />
+      <workItem from="1706362975132" duration="425000" />
+      <workItem from="1706363650708" duration="2288000" />
+      <workItem from="1706366441141" duration="1095000" />
+      <workItem from="1706412740400" duration="4300000" />
+      <workItem from="1707048663019" duration="2839000" />
+      <workItem from="1707131929326" duration="638000" />
+      <workItem from="1709038226154" duration="218000" />
+    </task>
+    <task id="LOCAL-00001" summary="项目初始化">
+      <created>1706155885005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706155885005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="项目初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目初始化" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../software/apache-maven-3.6.1/repository/com/xin/xinapi-client-sdk/0.0.1/xinapi-client-sdk-0.0.1.jar!/com/xin/xinapiclientsdk/client/XinApiClient.class</url>
+          <line>52</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

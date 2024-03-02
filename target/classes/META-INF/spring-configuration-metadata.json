@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "xin-api.gateway",
+      "type": "com.xin.project.properties.GatewayProperties",
+      "sourceType": "com.xin.project.properties.GatewayProperties"
+    },
+    {
+      "name": "xin-api.minio",
+      "type": "com.xin.project.properties.MinioProperties",
+      "sourceType": "com.xin.project.properties.MinioProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "xin-api.gateway.host",
+      "type": "java.lang.String",
+      "sourceType": "com.xin.project.properties.GatewayProperties"
+    },
+    {
+      "name": "xin-api.minio.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.xin.project.properties.MinioProperties"
+    },
+    {
+      "name": "xin-api.minio.bucket-name",
+      "type": "java.lang.String",
+      "sourceType": "com.xin.project.properties.MinioProperties"
+    },
+    {
+      "name": "xin-api.minio.endpoint-url",
+      "type": "java.lang.String",
+      "sourceType": "com.xin.project.properties.MinioProperties"
+    },
+    {
+      "name": "xin-api.minio.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.xin.project.properties.MinioProperties"
+    }
+  ],
+  "hints": []
+}
